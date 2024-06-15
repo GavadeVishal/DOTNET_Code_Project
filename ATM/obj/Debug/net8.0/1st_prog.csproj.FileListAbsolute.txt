@@ -1,0 +1,14 @@
+C:\Users\gavad\Desktop\Traning\.NET\ATM\bin\Debug\net8.0\1st_prog.exe
+C:\Users\gavad\Desktop\Traning\.NET\ATM\bin\Debug\net8.0\1st_prog.deps.json
+C:\Users\gavad\Desktop\Traning\.NET\ATM\bin\Debug\net8.0\1st_prog.runtimeconfig.json
+C:\Users\gavad\Desktop\Traning\.NET\ATM\bin\Debug\net8.0\1st_prog.dll
+C:\Users\gavad\Desktop\Traning\.NET\ATM\bin\Debug\net8.0\1st_prog.pdb
+C:\Users\gavad\Desktop\Traning\.NET\ATM\obj\Debug\net8.0\1st_prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavad\Desktop\Traning\.NET\ATM\obj\Debug\net8.0\1st_prog.AssemblyInfoInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\ATM\obj\Debug\net8.0\1st_prog.AssemblyInfo.cs
+C:\Users\gavad\Desktop\Traning\.NET\ATM\obj\Debug\net8.0\1st_prog.csproj.CoreCompileInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\ATM\obj\Debug\net8.0\1st_prog.dll
+C:\Users\gavad\Desktop\Traning\.NET\ATM\obj\Debug\net8.0\refint\1st_prog.dll
+C:\Users\gavad\Desktop\Traning\.NET\ATM\obj\Debug\net8.0\1st_prog.pdb
+C:\Users\gavad\Desktop\Traning\.NET\ATM\obj\Debug\net8.0\1st_prog.genruntimeconfig.cache
+C:\Users\gavad\Desktop\Traning\.NET\ATM\obj\Debug\net8.0\ref\1st_prog.dll
