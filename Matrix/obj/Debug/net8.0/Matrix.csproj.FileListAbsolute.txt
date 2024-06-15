@@ -1,0 +1,14 @@
+C:\Users\gavad\Desktop\Traning\.NET\Matrix\bin\Debug\net8.0\Matrix.exe
+C:\Users\gavad\Desktop\Traning\.NET\Matrix\bin\Debug\net8.0\Matrix.deps.json
+C:\Users\gavad\Desktop\Traning\.NET\Matrix\bin\Debug\net8.0\Matrix.runtimeconfig.json
+C:\Users\gavad\Desktop\Traning\.NET\Matrix\bin\Debug\net8.0\Matrix.dll
+C:\Users\gavad\Desktop\Traning\.NET\Matrix\bin\Debug\net8.0\Matrix.pdb
+C:\Users\gavad\Desktop\Traning\.NET\Matrix\obj\Debug\net8.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavad\Desktop\Traning\.NET\Matrix\obj\Debug\net8.0\Matrix.AssemblyInfoInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\Matrix\obj\Debug\net8.0\Matrix.AssemblyInfo.cs
+C:\Users\gavad\Desktop\Traning\.NET\Matrix\obj\Debug\net8.0\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\Matrix\obj\Debug\net8.0\Matrix.dll
+C:\Users\gavad\Desktop\Traning\.NET\Matrix\obj\Debug\net8.0\refint\Matrix.dll
+C:\Users\gavad\Desktop\Traning\.NET\Matrix\obj\Debug\net8.0\Matrix.pdb
+C:\Users\gavad\Desktop\Traning\.NET\Matrix\obj\Debug\net8.0\Matrix.genruntimeconfig.cache
+C:\Users\gavad\Desktop\Traning\.NET\Matrix\obj\Debug\net8.0\ref\Matrix.dll

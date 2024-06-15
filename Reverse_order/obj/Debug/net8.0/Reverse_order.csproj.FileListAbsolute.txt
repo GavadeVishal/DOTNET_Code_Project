@@ -1,0 +1,14 @@
+C:\Users\gavad\Desktop\Traning\.NET\Reverse_order\bin\Debug\net8.0\Reverse_order.exe
+C:\Users\gavad\Desktop\Traning\.NET\Reverse_order\bin\Debug\net8.0\Reverse_order.deps.json
+C:\Users\gavad\Desktop\Traning\.NET\Reverse_order\bin\Debug\net8.0\Reverse_order.runtimeconfig.json
+C:\Users\gavad\Desktop\Traning\.NET\Reverse_order\bin\Debug\net8.0\Reverse_order.dll
+C:\Users\gavad\Desktop\Traning\.NET\Reverse_order\bin\Debug\net8.0\Reverse_order.pdb
+C:\Users\gavad\Desktop\Traning\.NET\Reverse_order\obj\Debug\net8.0\Reverse_order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavad\Desktop\Traning\.NET\Reverse_order\obj\Debug\net8.0\Reverse_order.AssemblyInfoInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\Reverse_order\obj\Debug\net8.0\Reverse_order.AssemblyInfo.cs
+C:\Users\gavad\Desktop\Traning\.NET\Reverse_order\obj\Debug\net8.0\Reverse_order.csproj.CoreCompileInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\Reverse_order\obj\Debug\net8.0\Reverse_order.dll
+C:\Users\gavad\Desktop\Traning\.NET\Reverse_order\obj\Debug\net8.0\refint\Reverse_order.dll
+C:\Users\gavad\Desktop\Traning\.NET\Reverse_order\obj\Debug\net8.0\Reverse_order.pdb
+C:\Users\gavad\Desktop\Traning\.NET\Reverse_order\obj\Debug\net8.0\Reverse_order.genruntimeconfig.cache
+C:\Users\gavad\Desktop\Traning\.NET\Reverse_order\obj\Debug\net8.0\ref\Reverse_order.dll
