@@ -1,0 +1,14 @@
+C:\Users\gavad\Desktop\Traning\.NET\Prime_No\bin\Debug\net8.0\Program1.exe
+C:\Users\gavad\Desktop\Traning\.NET\Prime_No\bin\Debug\net8.0\Program1.deps.json
+C:\Users\gavad\Desktop\Traning\.NET\Prime_No\bin\Debug\net8.0\Program1.runtimeconfig.json
+C:\Users\gavad\Desktop\Traning\.NET\Prime_No\bin\Debug\net8.0\Program1.dll
+C:\Users\gavad\Desktop\Traning\.NET\Prime_No\bin\Debug\net8.0\Program1.pdb
+C:\Users\gavad\Desktop\Traning\.NET\Prime_No\obj\Debug\net8.0\Program1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavad\Desktop\Traning\.NET\Prime_No\obj\Debug\net8.0\Program1.AssemblyInfoInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\Prime_No\obj\Debug\net8.0\Program1.AssemblyInfo.cs
+C:\Users\gavad\Desktop\Traning\.NET\Prime_No\obj\Debug\net8.0\Program1.csproj.CoreCompileInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\Prime_No\obj\Debug\net8.0\Program1.dll
+C:\Users\gavad\Desktop\Traning\.NET\Prime_No\obj\Debug\net8.0\refint\Program1.dll
+C:\Users\gavad\Desktop\Traning\.NET\Prime_No\obj\Debug\net8.0\Program1.pdb
+C:\Users\gavad\Desktop\Traning\.NET\Prime_No\obj\Debug\net8.0\Program1.genruntimeconfig.cache
+C:\Users\gavad\Desktop\Traning\.NET\Prime_No\obj\Debug\net8.0\ref\Program1.dll

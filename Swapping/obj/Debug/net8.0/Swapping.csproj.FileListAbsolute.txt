@@ -1,0 +1,14 @@
+C:\Users\gavad\Desktop\Traning\.NET\Swapping\bin\Debug\net8.0\Swapping.exe
+C:\Users\gavad\Desktop\Traning\.NET\Swapping\bin\Debug\net8.0\Swapping.deps.json
+C:\Users\gavad\Desktop\Traning\.NET\Swapping\bin\Debug\net8.0\Swapping.runtimeconfig.json
+C:\Users\gavad\Desktop\Traning\.NET\Swapping\bin\Debug\net8.0\Swapping.dll
+C:\Users\gavad\Desktop\Traning\.NET\Swapping\bin\Debug\net8.0\Swapping.pdb
+C:\Users\gavad\Desktop\Traning\.NET\Swapping\obj\Debug\net8.0\Swapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavad\Desktop\Traning\.NET\Swapping\obj\Debug\net8.0\Swapping.AssemblyInfoInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\Swapping\obj\Debug\net8.0\Swapping.AssemblyInfo.cs
+C:\Users\gavad\Desktop\Traning\.NET\Swapping\obj\Debug\net8.0\Swapping.csproj.CoreCompileInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\Swapping\obj\Debug\net8.0\Swapping.dll
+C:\Users\gavad\Desktop\Traning\.NET\Swapping\obj\Debug\net8.0\refint\Swapping.dll
+C:\Users\gavad\Desktop\Traning\.NET\Swapping\obj\Debug\net8.0\Swapping.pdb
+C:\Users\gavad\Desktop\Traning\.NET\Swapping\obj\Debug\net8.0\Swapping.genruntimeconfig.cache
+C:\Users\gavad\Desktop\Traning\.NET\Swapping\obj\Debug\net8.0\ref\Swapping.dll
