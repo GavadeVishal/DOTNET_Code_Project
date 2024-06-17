@@ -1,0 +1,14 @@
+C:\Users\gavad\Desktop\Traning\.NET\Interchange\bin\Debug\net8.0\Interchange.exe
+C:\Users\gavad\Desktop\Traning\.NET\Interchange\bin\Debug\net8.0\Interchange.deps.json
+C:\Users\gavad\Desktop\Traning\.NET\Interchange\bin\Debug\net8.0\Interchange.runtimeconfig.json
+C:\Users\gavad\Desktop\Traning\.NET\Interchange\bin\Debug\net8.0\Interchange.dll
+C:\Users\gavad\Desktop\Traning\.NET\Interchange\bin\Debug\net8.0\Interchange.pdb
+C:\Users\gavad\Desktop\Traning\.NET\Interchange\obj\Debug\net8.0\Interchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavad\Desktop\Traning\.NET\Interchange\obj\Debug\net8.0\Interchange.AssemblyInfoInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\Interchange\obj\Debug\net8.0\Interchange.AssemblyInfo.cs
+C:\Users\gavad\Desktop\Traning\.NET\Interchange\obj\Debug\net8.0\Interchange.csproj.CoreCompileInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\Interchange\obj\Debug\net8.0\Interchange.dll
+C:\Users\gavad\Desktop\Traning\.NET\Interchange\obj\Debug\net8.0\refint\Interchange.dll
+C:\Users\gavad\Desktop\Traning\.NET\Interchange\obj\Debug\net8.0\Interchange.pdb
+C:\Users\gavad\Desktop\Traning\.NET\Interchange\obj\Debug\net8.0\Interchange.genruntimeconfig.cache
+C:\Users\gavad\Desktop\Traning\.NET\Interchange\obj\Debug\net8.0\ref\Interchange.dll

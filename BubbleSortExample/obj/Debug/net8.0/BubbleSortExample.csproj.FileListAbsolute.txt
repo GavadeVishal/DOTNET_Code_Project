@@ -1,0 +1,14 @@
+C:\Users\gavad\Desktop\Traning\.NET\BubbleSortExample\bin\Debug\net8.0\BubbleSortExample.exe
+C:\Users\gavad\Desktop\Traning\.NET\BubbleSortExample\bin\Debug\net8.0\BubbleSortExample.deps.json
+C:\Users\gavad\Desktop\Traning\.NET\BubbleSortExample\bin\Debug\net8.0\BubbleSortExample.runtimeconfig.json
+C:\Users\gavad\Desktop\Traning\.NET\BubbleSortExample\bin\Debug\net8.0\BubbleSortExample.dll
+C:\Users\gavad\Desktop\Traning\.NET\BubbleSortExample\bin\Debug\net8.0\BubbleSortExample.pdb
+C:\Users\gavad\Desktop\Traning\.NET\BubbleSortExample\obj\Debug\net8.0\BubbleSortExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavad\Desktop\Traning\.NET\BubbleSortExample\obj\Debug\net8.0\BubbleSortExample.AssemblyInfoInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\BubbleSortExample\obj\Debug\net8.0\BubbleSortExample.AssemblyInfo.cs
+C:\Users\gavad\Desktop\Traning\.NET\BubbleSortExample\obj\Debug\net8.0\BubbleSortExample.csproj.CoreCompileInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\BubbleSortExample\obj\Debug\net8.0\BubbleSortExample.dll
+C:\Users\gavad\Desktop\Traning\.NET\BubbleSortExample\obj\Debug\net8.0\refint\BubbleSortExample.dll
+C:\Users\gavad\Desktop\Traning\.NET\BubbleSortExample\obj\Debug\net8.0\BubbleSortExample.pdb
+C:\Users\gavad\Desktop\Traning\.NET\BubbleSortExample\obj\Debug\net8.0\BubbleSortExample.genruntimeconfig.cache
+C:\Users\gavad\Desktop\Traning\.NET\BubbleSortExample\obj\Debug\net8.0\ref\BubbleSortExample.dll

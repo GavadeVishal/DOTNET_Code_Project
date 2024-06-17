@@ -1,0 +1,14 @@
+C:\Users\gavad\Desktop\Traning\.NET\InsertionSorts\bin\Debug\net8.0\InsertionSorts.exe
+C:\Users\gavad\Desktop\Traning\.NET\InsertionSorts\bin\Debug\net8.0\InsertionSorts.deps.json
+C:\Users\gavad\Desktop\Traning\.NET\InsertionSorts\bin\Debug\net8.0\InsertionSorts.runtimeconfig.json
+C:\Users\gavad\Desktop\Traning\.NET\InsertionSorts\bin\Debug\net8.0\InsertionSorts.dll
+C:\Users\gavad\Desktop\Traning\.NET\InsertionSorts\bin\Debug\net8.0\InsertionSorts.pdb
+C:\Users\gavad\Desktop\Traning\.NET\InsertionSorts\obj\Debug\net8.0\InsertionSorts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavad\Desktop\Traning\.NET\InsertionSorts\obj\Debug\net8.0\InsertionSorts.AssemblyInfoInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\InsertionSorts\obj\Debug\net8.0\InsertionSorts.AssemblyInfo.cs
+C:\Users\gavad\Desktop\Traning\.NET\InsertionSorts\obj\Debug\net8.0\InsertionSorts.csproj.CoreCompileInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\InsertionSorts\obj\Debug\net8.0\InsertionSorts.dll
+C:\Users\gavad\Desktop\Traning\.NET\InsertionSorts\obj\Debug\net8.0\refint\InsertionSorts.dll
+C:\Users\gavad\Desktop\Traning\.NET\InsertionSorts\obj\Debug\net8.0\InsertionSorts.pdb
+C:\Users\gavad\Desktop\Traning\.NET\InsertionSorts\obj\Debug\net8.0\InsertionSorts.genruntimeconfig.cache
+C:\Users\gavad\Desktop\Traning\.NET\InsertionSorts\obj\Debug\net8.0\ref\InsertionSorts.dll

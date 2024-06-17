@@ -1,0 +1,14 @@
+C:\Users\gavad\Desktop\Traning\.NET\SelectionSorts\bin\Debug\net8.0\SelectionSorts.exe
+C:\Users\gavad\Desktop\Traning\.NET\SelectionSorts\bin\Debug\net8.0\SelectionSorts.deps.json
+C:\Users\gavad\Desktop\Traning\.NET\SelectionSorts\bin\Debug\net8.0\SelectionSorts.runtimeconfig.json
+C:\Users\gavad\Desktop\Traning\.NET\SelectionSorts\bin\Debug\net8.0\SelectionSorts.dll
+C:\Users\gavad\Desktop\Traning\.NET\SelectionSorts\bin\Debug\net8.0\SelectionSorts.pdb
+C:\Users\gavad\Desktop\Traning\.NET\SelectionSorts\obj\Debug\net8.0\SelectionSorts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavad\Desktop\Traning\.NET\SelectionSorts\obj\Debug\net8.0\SelectionSorts.AssemblyInfoInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\SelectionSorts\obj\Debug\net8.0\SelectionSorts.AssemblyInfo.cs
+C:\Users\gavad\Desktop\Traning\.NET\SelectionSorts\obj\Debug\net8.0\SelectionSorts.csproj.CoreCompileInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\SelectionSorts\obj\Debug\net8.0\SelectionSorts.dll
+C:\Users\gavad\Desktop\Traning\.NET\SelectionSorts\obj\Debug\net8.0\refint\SelectionSorts.dll
+C:\Users\gavad\Desktop\Traning\.NET\SelectionSorts\obj\Debug\net8.0\SelectionSorts.pdb
+C:\Users\gavad\Desktop\Traning\.NET\SelectionSorts\obj\Debug\net8.0\SelectionSorts.genruntimeconfig.cache
+C:\Users\gavad\Desktop\Traning\.NET\SelectionSorts\obj\Debug\net8.0\ref\SelectionSorts.dll

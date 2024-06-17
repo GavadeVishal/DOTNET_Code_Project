@@ -1,0 +1,14 @@
+C:\Users\gavad\Desktop\Traning\.NET\Transpose\bin\Debug\net8.0\Transpose.exe
+C:\Users\gavad\Desktop\Traning\.NET\Transpose\bin\Debug\net8.0\Transpose.deps.json
+C:\Users\gavad\Desktop\Traning\.NET\Transpose\bin\Debug\net8.0\Transpose.runtimeconfig.json
+C:\Users\gavad\Desktop\Traning\.NET\Transpose\bin\Debug\net8.0\Transpose.dll
+C:\Users\gavad\Desktop\Traning\.NET\Transpose\bin\Debug\net8.0\Transpose.pdb
+C:\Users\gavad\Desktop\Traning\.NET\Transpose\obj\Debug\net8.0\Transpose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavad\Desktop\Traning\.NET\Transpose\obj\Debug\net8.0\Transpose.AssemblyInfoInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\Transpose\obj\Debug\net8.0\Transpose.AssemblyInfo.cs
+C:\Users\gavad\Desktop\Traning\.NET\Transpose\obj\Debug\net8.0\Transpose.csproj.CoreCompileInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\Transpose\obj\Debug\net8.0\Transpose.dll
+C:\Users\gavad\Desktop\Traning\.NET\Transpose\obj\Debug\net8.0\refint\Transpose.dll
+C:\Users\gavad\Desktop\Traning\.NET\Transpose\obj\Debug\net8.0\Transpose.pdb
+C:\Users\gavad\Desktop\Traning\.NET\Transpose\obj\Debug\net8.0\Transpose.genruntimeconfig.cache
+C:\Users\gavad\Desktop\Traning\.NET\Transpose\obj\Debug\net8.0\ref\Transpose.dll
