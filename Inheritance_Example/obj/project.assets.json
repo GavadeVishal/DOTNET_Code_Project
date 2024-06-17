@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gavad\\Desktop\\DOTNET_Code_Project\\ATM\\1st_prog.csproj",
-      "projectName": "1st_prog",
-      "projectPath": "C:\\Users\\gavad\\Desktop\\DOTNET_Code_Project\\ATM\\1st_prog.csproj",
+      "projectUniqueName": "C:\\Users\\gavad\\Desktop\\Traning\\.NET\\Inheritance_Example\\Inheritance_Example.csproj",
+      "projectName": "Inheritance_Example",
+      "projectPath": "C:\\Users\\gavad\\Desktop\\Traning\\.NET\\Inheritance_Example\\Inheritance_Example.csproj",
       "packagesPath": "C:\\Users\\gavad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gavad\\Desktop\\DOTNET_Code_Project\\ATM\\obj\\",
+      "outputPath": "C:\\Users\\gavad\\Desktop\\Traning\\.NET\\Inheritance_Example\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gavad\\AppData\\Roaming\\NuGet\\NuGet.Config",
