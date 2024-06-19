@@ -1,0 +1,14 @@
+C:\Users\gavad\Desktop\Traning\.NET\All_Inheritance\bin\Debug\net8.0\All_Inheritance.exe
+C:\Users\gavad\Desktop\Traning\.NET\All_Inheritance\bin\Debug\net8.0\All_Inheritance.deps.json
+C:\Users\gavad\Desktop\Traning\.NET\All_Inheritance\bin\Debug\net8.0\All_Inheritance.runtimeconfig.json
+C:\Users\gavad\Desktop\Traning\.NET\All_Inheritance\bin\Debug\net8.0\All_Inheritance.dll
+C:\Users\gavad\Desktop\Traning\.NET\All_Inheritance\bin\Debug\net8.0\All_Inheritance.pdb
+C:\Users\gavad\Desktop\Traning\.NET\All_Inheritance\obj\Debug\net8.0\All_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavad\Desktop\Traning\.NET\All_Inheritance\obj\Debug\net8.0\All_Inheritance.AssemblyInfoInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\All_Inheritance\obj\Debug\net8.0\All_Inheritance.AssemblyInfo.cs
+C:\Users\gavad\Desktop\Traning\.NET\All_Inheritance\obj\Debug\net8.0\All_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\All_Inheritance\obj\Debug\net8.0\All_Inheritance.dll
+C:\Users\gavad\Desktop\Traning\.NET\All_Inheritance\obj\Debug\net8.0\refint\All_Inheritance.dll
+C:\Users\gavad\Desktop\Traning\.NET\All_Inheritance\obj\Debug\net8.0\All_Inheritance.pdb
+C:\Users\gavad\Desktop\Traning\.NET\All_Inheritance\obj\Debug\net8.0\All_Inheritance.genruntimeconfig.cache
+C:\Users\gavad\Desktop\Traning\.NET\All_Inheritance\obj\Debug\net8.0\ref\All_Inheritance.dll
