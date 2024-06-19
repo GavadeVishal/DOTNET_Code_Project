@@ -1,0 +1,14 @@
+C:\Users\gavad\Desktop\Traning\.NET\Fee_Recipt\bin\Debug\net8.0\Fee_Recipt.exe
+C:\Users\gavad\Desktop\Traning\.NET\Fee_Recipt\bin\Debug\net8.0\Fee_Recipt.deps.json
+C:\Users\gavad\Desktop\Traning\.NET\Fee_Recipt\bin\Debug\net8.0\Fee_Recipt.runtimeconfig.json
+C:\Users\gavad\Desktop\Traning\.NET\Fee_Recipt\bin\Debug\net8.0\Fee_Recipt.dll
+C:\Users\gavad\Desktop\Traning\.NET\Fee_Recipt\bin\Debug\net8.0\Fee_Recipt.pdb
+C:\Users\gavad\Desktop\Traning\.NET\Fee_Recipt\obj\Debug\net8.0\Fee_Recipt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavad\Desktop\Traning\.NET\Fee_Recipt\obj\Debug\net8.0\Fee_Recipt.AssemblyInfoInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\Fee_Recipt\obj\Debug\net8.0\Fee_Recipt.AssemblyInfo.cs
+C:\Users\gavad\Desktop\Traning\.NET\Fee_Recipt\obj\Debug\net8.0\Fee_Recipt.csproj.CoreCompileInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\Fee_Recipt\obj\Debug\net8.0\Fee_Recipt.dll
+C:\Users\gavad\Desktop\Traning\.NET\Fee_Recipt\obj\Debug\net8.0\refint\Fee_Recipt.dll
+C:\Users\gavad\Desktop\Traning\.NET\Fee_Recipt\obj\Debug\net8.0\Fee_Recipt.pdb
+C:\Users\gavad\Desktop\Traning\.NET\Fee_Recipt\obj\Debug\net8.0\Fee_Recipt.genruntimeconfig.cache
+C:\Users\gavad\Desktop\Traning\.NET\Fee_Recipt\obj\Debug\net8.0\ref\Fee_Recipt.dll

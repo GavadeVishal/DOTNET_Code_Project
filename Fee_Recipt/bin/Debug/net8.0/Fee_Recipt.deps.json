@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Fee_Recipt/1.0.0": {
+        "runtime": {
+          "Fee_Recipt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fee_Recipt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
