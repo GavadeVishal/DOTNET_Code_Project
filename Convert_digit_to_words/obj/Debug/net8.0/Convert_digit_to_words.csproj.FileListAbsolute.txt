@@ -1,0 +1,14 @@
+C:\Users\gavad\Desktop\Traning\.NET\Convert_digit_to_words\bin\Debug\net8.0\Convert_digit_to_words.exe
+C:\Users\gavad\Desktop\Traning\.NET\Convert_digit_to_words\bin\Debug\net8.0\Convert_digit_to_words.deps.json
+C:\Users\gavad\Desktop\Traning\.NET\Convert_digit_to_words\bin\Debug\net8.0\Convert_digit_to_words.runtimeconfig.json
+C:\Users\gavad\Desktop\Traning\.NET\Convert_digit_to_words\bin\Debug\net8.0\Convert_digit_to_words.dll
+C:\Users\gavad\Desktop\Traning\.NET\Convert_digit_to_words\bin\Debug\net8.0\Convert_digit_to_words.pdb
+C:\Users\gavad\Desktop\Traning\.NET\Convert_digit_to_words\obj\Debug\net8.0\Convert_digit_to_words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavad\Desktop\Traning\.NET\Convert_digit_to_words\obj\Debug\net8.0\Convert_digit_to_words.AssemblyInfoInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\Convert_digit_to_words\obj\Debug\net8.0\Convert_digit_to_words.AssemblyInfo.cs
+C:\Users\gavad\Desktop\Traning\.NET\Convert_digit_to_words\obj\Debug\net8.0\Convert_digit_to_words.csproj.CoreCompileInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\Convert_digit_to_words\obj\Debug\net8.0\Convert_digit_to_words.dll
+C:\Users\gavad\Desktop\Traning\.NET\Convert_digit_to_words\obj\Debug\net8.0\refint\Convert_digit_to_words.dll
+C:\Users\gavad\Desktop\Traning\.NET\Convert_digit_to_words\obj\Debug\net8.0\Convert_digit_to_words.pdb
+C:\Users\gavad\Desktop\Traning\.NET\Convert_digit_to_words\obj\Debug\net8.0\Convert_digit_to_words.genruntimeconfig.cache
+C:\Users\gavad\Desktop\Traning\.NET\Convert_digit_to_words\obj\Debug\net8.0\ref\Convert_digit_to_words.dll

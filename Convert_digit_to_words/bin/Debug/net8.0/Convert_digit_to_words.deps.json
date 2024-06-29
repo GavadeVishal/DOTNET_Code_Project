@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Convert_digit_to_words/1.0.0": {
+        "runtime": {
+          "Convert_digit_to_words.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Convert_digit_to_words/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

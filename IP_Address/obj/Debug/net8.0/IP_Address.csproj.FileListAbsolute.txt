@@ -1,0 +1,14 @@
+C:\Users\gavad\Desktop\Traning\.NET\IP_Address\bin\Debug\net8.0\IP_Address.exe
+C:\Users\gavad\Desktop\Traning\.NET\IP_Address\bin\Debug\net8.0\IP_Address.deps.json
+C:\Users\gavad\Desktop\Traning\.NET\IP_Address\bin\Debug\net8.0\IP_Address.runtimeconfig.json
+C:\Users\gavad\Desktop\Traning\.NET\IP_Address\bin\Debug\net8.0\IP_Address.dll
+C:\Users\gavad\Desktop\Traning\.NET\IP_Address\bin\Debug\net8.0\IP_Address.pdb
+C:\Users\gavad\Desktop\Traning\.NET\IP_Address\obj\Debug\net8.0\IP_Address.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavad\Desktop\Traning\.NET\IP_Address\obj\Debug\net8.0\IP_Address.AssemblyInfoInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\IP_Address\obj\Debug\net8.0\IP_Address.AssemblyInfo.cs
+C:\Users\gavad\Desktop\Traning\.NET\IP_Address\obj\Debug\net8.0\IP_Address.csproj.CoreCompileInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\IP_Address\obj\Debug\net8.0\IP_Address.dll
+C:\Users\gavad\Desktop\Traning\.NET\IP_Address\obj\Debug\net8.0\refint\IP_Address.dll
+C:\Users\gavad\Desktop\Traning\.NET\IP_Address\obj\Debug\net8.0\IP_Address.pdb
+C:\Users\gavad\Desktop\Traning\.NET\IP_Address\obj\Debug\net8.0\IP_Address.genruntimeconfig.cache
+C:\Users\gavad\Desktop\Traning\.NET\IP_Address\obj\Debug\net8.0\ref\IP_Address.dll
