@@ -1,0 +1,14 @@
+C:\Users\gavad\Desktop\Traning\.NET\Pass_Value\bin\Debug\net8.0\Pass_Value.exe
+C:\Users\gavad\Desktop\Traning\.NET\Pass_Value\bin\Debug\net8.0\Pass_Value.deps.json
+C:\Users\gavad\Desktop\Traning\.NET\Pass_Value\bin\Debug\net8.0\Pass_Value.runtimeconfig.json
+C:\Users\gavad\Desktop\Traning\.NET\Pass_Value\bin\Debug\net8.0\Pass_Value.dll
+C:\Users\gavad\Desktop\Traning\.NET\Pass_Value\bin\Debug\net8.0\Pass_Value.pdb
+C:\Users\gavad\Desktop\Traning\.NET\Pass_Value\obj\Debug\net8.0\Pass_Value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavad\Desktop\Traning\.NET\Pass_Value\obj\Debug\net8.0\Pass_Value.AssemblyInfoInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\Pass_Value\obj\Debug\net8.0\Pass_Value.AssemblyInfo.cs
+C:\Users\gavad\Desktop\Traning\.NET\Pass_Value\obj\Debug\net8.0\Pass_Value.csproj.CoreCompileInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\Pass_Value\obj\Debug\net8.0\Pass_Value.dll
+C:\Users\gavad\Desktop\Traning\.NET\Pass_Value\obj\Debug\net8.0\refint\Pass_Value.dll
+C:\Users\gavad\Desktop\Traning\.NET\Pass_Value\obj\Debug\net8.0\Pass_Value.pdb
+C:\Users\gavad\Desktop\Traning\.NET\Pass_Value\obj\Debug\net8.0\Pass_Value.genruntimeconfig.cache
+C:\Users\gavad\Desktop\Traning\.NET\Pass_Value\obj\Debug\net8.0\ref\Pass_Value.dll

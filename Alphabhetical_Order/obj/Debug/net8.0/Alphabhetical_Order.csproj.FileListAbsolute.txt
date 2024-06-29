@@ -1,0 +1,14 @@
+C:\Users\gavad\Desktop\Traning\.NET\Alphabhetical_Order\bin\Debug\net8.0\Alphabhetical_Order.exe
+C:\Users\gavad\Desktop\Traning\.NET\Alphabhetical_Order\bin\Debug\net8.0\Alphabhetical_Order.deps.json
+C:\Users\gavad\Desktop\Traning\.NET\Alphabhetical_Order\bin\Debug\net8.0\Alphabhetical_Order.runtimeconfig.json
+C:\Users\gavad\Desktop\Traning\.NET\Alphabhetical_Order\bin\Debug\net8.0\Alphabhetical_Order.dll
+C:\Users\gavad\Desktop\Traning\.NET\Alphabhetical_Order\bin\Debug\net8.0\Alphabhetical_Order.pdb
+C:\Users\gavad\Desktop\Traning\.NET\Alphabhetical_Order\obj\Debug\net8.0\Alphabhetical_Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavad\Desktop\Traning\.NET\Alphabhetical_Order\obj\Debug\net8.0\Alphabhetical_Order.AssemblyInfoInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\Alphabhetical_Order\obj\Debug\net8.0\Alphabhetical_Order.AssemblyInfo.cs
+C:\Users\gavad\Desktop\Traning\.NET\Alphabhetical_Order\obj\Debug\net8.0\Alphabhetical_Order.csproj.CoreCompileInputs.cache
+C:\Users\gavad\Desktop\Traning\.NET\Alphabhetical_Order\obj\Debug\net8.0\Alphabhetical_Order.dll
+C:\Users\gavad\Desktop\Traning\.NET\Alphabhetical_Order\obj\Debug\net8.0\refint\Alphabhetical_Order.dll
+C:\Users\gavad\Desktop\Traning\.NET\Alphabhetical_Order\obj\Debug\net8.0\Alphabhetical_Order.pdb
+C:\Users\gavad\Desktop\Traning\.NET\Alphabhetical_Order\obj\Debug\net8.0\Alphabhetical_Order.genruntimeconfig.cache
+C:\Users\gavad\Desktop\Traning\.NET\Alphabhetical_Order\obj\Debug\net8.0\ref\Alphabhetical_Order.dll
